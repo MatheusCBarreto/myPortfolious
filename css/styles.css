@@ -1,0 +1,68 @@
+body,
+main,
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  background: rgb(41,40,40);
+  background: linear-gradient(45deg, rgba(41,40,40,1) 0%, rgba(16,16,16,1) 48%, rgba(16,16,16,1) 100%);
+  width: 100%vw;
+  height: 740px;
+}
+
+.container-infos {
+  width: 707px;
+  height: 200px;
+  padding-left: 131px;
+  padding-top: 291px;
+}
+
+.title {
+  font-size: 85px;
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 300;
+  color: #FFFFFF;
+}
+
+.subtitle {
+  font-size: 28px;
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 400;
+  color: #C9C9C9;
+}
+
+strong {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.btn-projects {
+  background: transparent;
+  border: 1px solid #FFFFFF;
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  padding: 12px 49px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.contacts {
+  padding-left: 670px;
+  padding-right: 626px;
+  padding-top: 110px;
+}
+
+.btn-contacts {
+  background: transparent;
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+  padding: 12px 50px;
+  cursor: pointer;
+}
